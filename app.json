@@ -1,7 +1,7 @@
 {
   "name": "VOID disposable email",
   "description": "a simple and fast disposable mail service that works directly with your imap server. No database required.",
-  "repository": "https://github.com/synox/void-mail",
+  "repository": "https://github.com/Area51officer/void-mail",
   "logo": "https://github.com/synox/void-mail/raw/master/docs/void-text.gif",
   "keywords": [
     "node",
