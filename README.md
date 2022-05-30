@@ -32,7 +32,7 @@ See [FAQ](docs/faq.md)
 
 ## Install
 One click installation: 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/synox/void-mail)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Area51officer/void-mail)
 
 
 See [Installation](docs/installation.md)
