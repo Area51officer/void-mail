@@ -18,10 +18,13 @@ html {
 }
 
 body {
-  color: #606c76;
-  font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-  font-size: 1.6em;
-  font-weight: 300;
+  background: url(https://imgs.search.brave.com/RdkuGGO6YAFqr0S1ySoU6Q6duzre4QvVT77OxM65Cds/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93YWxs/dXAubmV0L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE4LzA5LzI2/LzIyODI4Ny1hbmlt/ZS1hbmltZV9naXJs/cy1UaGVfTWVsYW5j/aG9seV9vZl9IYXJ1/aGlfU3V6dW1peWEt/U3V6dW1peWFfSGFy/dWhpLmpwZw);
+  background-repeat: no-repeat;
+  background-color: purple;
+  color: white;
+  font-family: 'Copperplate', fantasy;
+  font-size: 2.5em;
+  font-weight: 500;
   letter-spacing: .01em;
   line-height: 1.6;
 }
@@ -42,8 +45,8 @@ button,
 input[type='button'],
 input[type='reset'],
 input[type='submit'] {
-  background-color: #9b4dca;
-  border: 0.1rem solid #9b4dca;
+  background-color: #e52b50;
+  border: 0.1rem solid #e52b50;
   border-radius: .4rem;
   color: #fff;
   cursor: pointer;
