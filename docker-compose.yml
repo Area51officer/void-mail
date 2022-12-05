@@ -6,9 +6,9 @@ services:
     ports:
       - "3000:3000"
     environment:
-      DOMAIN: example.com
-      IMAP_SERVER: mail.example.com
-      IMAP_USER: void@example.com
-      IMAP_PASSWORD: changemehard
+      DOMAIN: premium4you.tech
+      IMAP_SERVER: us2.imap.mailhostbox.com
+      IMAP_USER: sam@premium4you.tech
+      IMAP_PASSWORD: q#I(pisCC8
       DELETE_MAILS_OLDER_THAN_DAYS: 30
       
