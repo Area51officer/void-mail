@@ -9,7 +9,7 @@
 *,
 *:after,
 *:before {
-  box-sizing: inherit;
+  box-sizing: ;
 }
 
 html {
@@ -18,13 +18,13 @@ html {
 }
 
 body {
-  background: url(https://imgs.search.brave.com/RdkuGGO6YAFqr0S1ySoU6Q6duzre4QvVT77OxM65Cds/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93YWxs/dXAubmV0L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE4LzA5LzI2/LzIyODI4Ny1hbmlt/ZS1hbmltZV9naXJs/cy1UaGVfTWVsYW5j/aG9seV9vZl9IYXJ1/aGlfU3V6dW1peWEt/U3V6dW1peWFfSGFy/dWhpLmpwZw);
+  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Black.png/220px-Black.png);
   background-repeat: no-repeat;
-  background-color: purple;
+  background-color: black;
   color: white;
   font-family: 'Copperplate', fantasy;
   font-size: 2.5em;
-  font-weight: 500;
+  font-weight: 100;
   letter-spacing: .01em;
   line-height: 1.6;
 }
@@ -45,14 +45,14 @@ button,
 input[type='button'],
 input[type='reset'],
 input[type='submit'] {
-  background-color: #e52b50;
-  border: 0.1rem solid #e52b50;
+  background-color: #0047AB;
+  border: 0.1rem solid #0047AB;
   border-radius: .4rem;
   color: #fff;
   cursor: pointer;
   display: inline-block;
-  font-size: 1.1rem;
-  font-weight: 700;
+  font-size: 1.5rem;
+  font-weight: 100;
   height: 3.8rem;
   letter-spacing: .1rem;
   line-height: 3.8rem;
@@ -212,8 +212,8 @@ select {
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
-  background-color: transparent;
-  border: 0.3rem solid #ff2052;
+  background-color: #e5ebef;
+  border: 0.3rem solid #1434A4;
   border-radius: .4rem;
   box-shadow: none;
   box-sizing: inherit;
@@ -236,7 +236,7 @@ select:focus {
 }
 
 select {
-  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" height="14" viewBox="0 0 29 14" width="29"><path fill="#d1d1d1" d="M9.37727 3.625l5.08154 6.93523L19.54036 3.625"/></svg>') center right no-repeat;
+  background: white;
   padding-right: 3.0rem;
 }
 
@@ -251,8 +251,8 @@ textarea {
 label,
 legend {
   display: block;
-  font-size: 1.6rem;
-  font-weight: 700;
+  font-size: 2.8rem;
+  font-weight: 100;
   margin-bottom: .5rem;
 }
 
@@ -545,14 +545,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 300;
+  font-weight: 100;
   letter-spacing: -.1rem;
   margin-bottom: 2.0rem;
   margin-top: 0;
 }
 
 h1 {
-  font-size: 4.6rem;
+  font-size: 2.5rem;
   line-height: 1.2;
 }
 
